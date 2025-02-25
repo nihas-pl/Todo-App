@@ -1,0 +1,9 @@
+@tailwind-base;
+    @layer components {
+      .space-y-1: {
+        --space-y: 0.5rem;
+      }
+      .space-y-4: {
+        --space-y: 1rem;
+      }
+    }
